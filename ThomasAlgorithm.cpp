@@ -24,6 +24,7 @@ void testThomasAlgorithm()
 		0, 0, 3, 5, -1,
 		0, 0, 0, 1, 2
 	};
+
 	std::vector<double> d =
 	{
 		1, 2, 3, 4, 5,

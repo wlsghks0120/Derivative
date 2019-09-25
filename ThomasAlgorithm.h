@@ -29,6 +29,7 @@ private:
 	Matrix A;
 	Vector d;
 
+	// 아직 미구현 된 안전장치 함수들
 	bool isSquare();
 	bool isTridiagonal();
 	bool isStrictlyDiagonallyDominant();
